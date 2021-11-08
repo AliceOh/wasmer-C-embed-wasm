@@ -1,0 +1,1 @@
+# wasmer-C-embed-wasm
